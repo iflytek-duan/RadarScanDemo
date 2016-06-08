@@ -1,7 +1,7 @@
 # RadarScanDemo
-### 自定义View实现雷达扫描效果--附加有扫描点v1.0
+###1. 自定义View实现雷达扫描效果--附加有扫描点v1.0
  ![image](/preview.png)
-### RadarView.java
+###2. RadarView.java
 ```java
 package com.zihao.radar.view;
 
